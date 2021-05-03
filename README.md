@@ -11,7 +11,7 @@ analytical understanding. I'm a self learning, a long life learner, love new tec
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.c.burkot@gmail.com)](mailto:m.c.burkot@gmail.com)
 
 - :office_worker: I'm Currently a .NET Developer 
-- :computer: Tech Skills: .NET/C# , Java, Python, JavaScript, PHP, T-SQL, Angular, ASP.NET, Entity Framework, .NET Core e .NET Framework e Microsservices.
+- :computer: Tech Skills: .NET/C# , Java, Python, JavaScript, PHP, T-SQL, Angular, ASP.NET, Entity Framework, .NET Core e .NET Framework and Microsservices.
 - :books: Graduated at PUCPR in Information Systems. 
 - 🌱 Improving my skills in Clean Code, TDD, SOLID and others techs. 
 ---
