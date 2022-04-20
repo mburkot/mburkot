@@ -2,9 +2,8 @@
 
 ### Hey 👋 Welcome to my profile !
 
-#### About me: 
-- I'm a System Analist, I've huge knowledge on software development. I've ability to understand, solve or bring a solution to complex problems and a high
-analytical understanding. I'm a self learning, a long life learner, love new technologies and like to share knowlegdes with everyone who have interests in. 
+#### About me:
+- I am a Software Engineer with 4+ years of experience working with C#, .Net Framework and .Net Core, Web development, Angular JS, and 8. I hold a Bachelor's Degree in Computer Systems from a top university in Brazil (PUC-PR is #33 in Brazil according to U.S. News). During college, I was one of the few to integrate the Polytechnic School Dean's List and at the end of the course awarded with the Marcelino Champagnat Award as the best of the class to graduate. Now I'm a MSc student atPUC-PR, learning about Data Stream Mining.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mburkot)](https://github.com/mburkot)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusburkot/)](https://www.linkedin.com/in/matheusburkot/)
